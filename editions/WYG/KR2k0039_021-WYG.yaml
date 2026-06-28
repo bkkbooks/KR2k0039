@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR2k0039/WYG/v1/juan/21
+seq: 21
+front:
+  text: 欽定四庫全書欽定皇輿西域圖志巻六目錄
+  hash: sha256:4f6acc601f7d4ba729f17cdb335700ce9d0add068cbdf614513e8f1382310eb8
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0039_WYG_021-1a, image: WYG0500/WYG0500-0531c.png}
+body:
+  text: 晷度一安西南路安西北路天山北路欽定皇輿西域圗志卷六目録欽定四庫全書欽定皇輿西域圖志巻六目錄晷度一安西南路安西北路天山北路欽定皇輿西域圗志卷六目録
+  hash: sha256:15f4503ebf390f12a8e250d7d9e19a6df500da0a0635e0d2931aaed4304eb889
+  markers:
+  - {type: page-break, offset: 27, content: '', id: KR2k0039_WYG_021-2a, image: WYG0500/WYG0500-0532a.png}
+metadata:
+  title: 欽定皇輿西域圖志
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:40:35.472862'
+  juan_title: 卷六目録
+  source:
+    repository: kanripo
+    path: KR2k0039/KR2k0039_021.txt
+hash: sha256:69f7fc6b2d152ecff9da828bae724671b87de45b448f0d13cc93cc1b35b8be1e

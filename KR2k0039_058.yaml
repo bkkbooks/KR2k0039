@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR2k0039/krp/v1/juan/58
+seq: 58
+front:
+  text: 欽定四庫全書欽定皇輿西域圖志卷三十五目録
+  hash: sha256:b2e196507afd7a7ddd5c3d1e0e2a8215b376b25028eefa928416be1c95a73a15
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0039_WYG_058-1a}
+body:
+  text: 錢法制式爐局名數行使欽定皇輿西域圖志卷三十五目録欽定四庫全書欽定皇輿西域圖志卷三十五目録錢法制式爐局名數行使欽定皇輿西域圖志卷三十五目録
+  hash: sha256:4d09b57a8d392095299bffece0615fc24b9a2084f50e59a765996dcc2835f737
+  markers:
+  - {type: page-break, offset: 24, content: '', id: KR2k0039_WYG_058-2a}
+metadata:
+  title: 欽定皇輿西域圖志
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:40:35.472862'
+  juan_title: 卷三十五目録
+  source:
+    repository: kanripo
+    path: KR2k0039/KR2k0039_058.txt
+hash: sha256:bb557d1a055a87f1700cf6e2b3302af5d5b1cbc2deabb436795130f397cb2fa7

@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR2k0039/WYG/v1/juan/28
+seq: 28
+front:
+  text: 欽定四庫全書欽定皇輿西域圖志巻五目録
+  hash: sha256:6adbaafc7944da1e53a5bcc6e395deebcb6e76d55f477685bb01790bdc934908
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0039_WYG_028-1a, image: WYG0500/WYG0500-0614a.png}
+body:
+  text: 列表二天山南路闢展表哈喇沙爾表庫車表賽喇木表阿克蘇表烏什表喀什噶爾表葉爾羌表和闐表藩屬左右哈薩克部表東西布魯特部表安集延瑪爾噶朗霍罕那木干諸部表塔什罕表拔達克山博洛爾布哈爾諸部表愛烏罕痕都斯坦巴勒提諸部表欽定皇輿西域圖志巻五目録欽定四庫全書欽定皇輿西域圖志巻五目録列表二天山南路闢展表哈喇沙爾表庫車表賽喇木表阿克蘇表烏什表喀什噶爾表葉爾羌表和闐表藩屬左右哈薩克部表東西布魯特部表安集延瑪爾噶朗霍罕那木干諸部表塔什罕表拔達克山博洛爾布哈爾諸部表愛烏罕痕都斯坦巴勒提諸部表欽定皇輿西域圖志巻五目録
+  hash: sha256:9db7f76a1b3e111e64ec21caf05aec11fa5dcda110952ce8bb0d7384f5d288d3
+  markers:
+  - {type: page-break, offset: 114, content: '', id: KR2k0039_WYG_028-3a, image: WYG0500/WYG0500-0615a.png}
+metadata:
+  title: 欽定皇輿西域圖志
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:40:35.472862'
+  juan_title: 卷五目録
+  source:
+    repository: kanripo
+    path: KR2k0039/KR2k0039_028.txt
+hash: sha256:d06fdedddd116bee819313cf3fbf03340d7223d1bf2efbcf6339eb6ba62c625e

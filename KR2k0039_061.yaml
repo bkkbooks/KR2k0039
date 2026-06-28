@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR2k0039/krp/v1/juan/61
+seq: 61
+front:
+  text: 欽定四庫全書欽定皇輿西域圖志卷三十六目録
+  hash: sha256:7c717dd6f843098eaa31493ae30a3e4228cba5156c6137055de9152e287d4190
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0039_WYG_061-1a}
+body:
+  text: 學校安西州屬鎮西府屬迪化州屬欽定皇輿西域圖志卷三十六目録欽定四庫全書欽定皇輿西域圖志卷三十六目録學校安西州屬鎮西府屬迪化州屬欽定皇輿西域圖志卷三十六目録
+  hash: sha256:4d8344b00cec840b562bb749c2d8b4924c45aaacbc8011f6bc81aea3fa4522e6
+  markers:
+  - {type: page-break, offset: 28, content: '', id: KR2k0039_WYG_061-2a}
+metadata:
+  title: 欽定皇輿西域圖志
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:40:35.472862'
+  juan_title: 卷三十六目録
+  source:
+    repository: kanripo
+    path: KR2k0039/KR2k0039_061.txt
+hash: sha256:50fdcc09ab35a4663019ddef6fdda0837fb9ca73bdc690f5fd8f1bae8dfbda89

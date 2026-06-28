@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR2k0039/WYG/v1/juan/96
+seq: 96
+front:
+  text: 欽定四庫全書欽定皇輿西域圖志卷四十四目録
+  hash: sha256:397a4ad64fd520d1a2dc49a2f97b0e98e67d70e8000ec5f7f308afd6527022ff
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0039_WYG_096-1a}
+body:
+  text: 藩屬一左部哈薩克右部哈薩克欽定皇輿西域圗志卷四十四目録欽定四庫全書欽定皇輿西域圖志卷四十四目録藩屬一左部哈薩克右部哈薩克欽定皇輿西域圗志卷四十四目録
+  hash: sha256:1b610608a6ec716b94b70296267d7158c604c5076d8f9ee9101a6126b7436127
+  markers:
+  - {type: page-break, offset: 27, content: '', id: KR2k0039_WYG_096-2a}
+metadata:
+  title: 欽定皇輿西域圖志
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:40:35.472862'
+  juan_title: 卷四十四目録
+  source:
+    repository: kanripo
+    path: KR2k0039/KR2k0039_096.txt
+hash: sha256:76d096c4d74a194a03679dfd3edee07b6cf9e55376a226ca6432d292dc2a76d0

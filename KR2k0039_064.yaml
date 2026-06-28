@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR2k0039/krp/v1/juan/64
+seq: 64
+front:
+  text: 欽定四庫全書欽定皇輿西域圖志卷三十四目録
+  hash: sha256:d104a1f873bb7f90559fd80fe2bd50a4f19a290d65d0ae09e79e52f10918f3c8
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0039_WYG_064-1a}
+body:
+  text: 貢賦安西州玉門縣敦煌縣哈密鎮西府宜禾縣奇臺縣迪化州昌吉縣綏來縣阜康縣庫爾喀喇烏蘇塔爾巴噶台伊犂闢展哈喇沙爾庫車沙雅爾烏什阿克蘇賽喇木拜喀什噶爾葉爾羌和闐欽定皇輿西域圖志卷三十四目録欽定四庫全書欽定皇輿西域圖志卷三十四目録貢賦安西州玉門縣敦煌縣哈密鎮西府宜禾縣奇臺縣迪化州昌吉縣綏來縣阜康縣庫爾喀喇烏蘇塔爾巴噶台伊犂闢展哈喇沙爾庫車沙雅爾烏什阿克蘇賽喇木拜喀什噶爾葉爾羌和闐欽定皇輿西域圖志卷三十四目録
+  hash: sha256:da8f5b424967d1118e7e7ac3112f8cff6d2459e3ae943c8760d82f5b41fc7fc9
+  markers:
+  - {type: page-break, offset: 90, content: '', id: KR2k0039_WYG_064-3a}
+metadata:
+  title: 欽定皇輿西域圖志
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:40:35.472862'
+  juan_title: 卷三十四目録
+  source:
+    repository: kanripo
+    path: KR2k0039/KR2k0039_064.txt
+hash: sha256:d1ffe575f748b2d626efa39e902943217bacc0ecf8134ebbe43b734ee0b5f783

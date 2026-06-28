@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR2k0039/WYG/v1/juan/45
+seq: 45
+front:
+  text: 欽定四庫全書欽定皇輿西域圖志卷三十七目録
+  hash: sha256:36e16f8ef1e67370a7806269ff9c604806379b9edcce335c5d1cb565f9c5738c
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0039_WYG_045-1a, image: WYG0500/WYG0500-0869a.png}
+body:
+  text: 封爵一都爾伯特屬綽羅斯屬和碩特屬輝特屬土爾扈特屬欽定皇輿西域圖志卷三十七目録欽定四庫全書欽定皇輿西域圖志卷三十七目録封爵一都爾伯特屬綽羅斯屬和碩特屬輝特屬土爾扈特屬欽定皇輿西域圖志卷三十七目録
+  hash: sha256:06c7a750f9bd7a5f000b004ba03551f0aca45fe4d6ad9753cf2ff8b28483a23b
+  markers:
+  - {type: page-break, offset: 38, content: '', id: KR2k0039_WYG_045-2a, image: WYG0500/WYG0500-0869c.png}
+metadata:
+  title: 欽定皇輿西域圖志
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:40:35.472862'
+  juan_title: 卷三十七目録
+  source:
+    repository: kanripo
+    path: KR2k0039/KR2k0039_045.txt
+hash: sha256:5f931d02986995a82405d4b31ddcab5c78278af696f4990680513e284de45793

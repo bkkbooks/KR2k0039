@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR2k0039/WYG/v1/juan/67
+seq: 67
+front:
+  text: 欽定四庫全書欽定皇輿西域圖志卷二十九目録
+  hash: sha256:c73ebba836459fdb2131400575b7223146e8358acd608cbda88faf43d96dee93
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0039_WYG_067-1a}
+body:
+  text: 官制一嘉峪闗安西州哈宻鎮西府迪化州伊犂庫爾喀喇烏蘇塔爾巴噶台附準噶爾舊官制欽定皇輿西域圖志巻二十九目録欽定四庫全書欽定皇輿西域圖志卷二十九目録官制一嘉峪闗安西州哈宻鎮西府迪化州伊犂庫爾喀喇烏蘇塔爾巴噶台附準噶爾舊官制欽定皇輿西域圖志巻二十九目録
+  hash: sha256:68efecb57f00f9baef500e7d250a281b563ca5aff54c8ea780f3342c156918ae
+  markers:
+  - {type: page-break, offset: 51, content: '', id: KR2k0039_WYG_067-2a}
+metadata:
+  title: 欽定皇輿西域圖志
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:40:35.472862'
+  juan_title: 卷二十九目録
+  source:
+    repository: kanripo
+    path: KR2k0039/KR2k0039_067.txt
+hash: sha256:d8db32a7cfc2995670791d27a5c712ec49e1dc99f9f938d076575ed0e512057c

@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR2k0039/krp/v1/juan/85
+seq: 85
+front:
+  text: 欽定四庫全書欽定皇輿西域圖志卷四十二目録
+  hash: sha256:a28b6ebde1deb8096f58eada12a94a6b92392b96ba8075995834dfe9e790d604
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0039_WYG_085-1a}
+body:
+  text: 服物二回部被服之具坐卧之具飲食之具日用之具攻戰之具耕種之具成物之具欽定皇輿西域圖志卷四十二目録欽定四庫全書欽定皇輿西域圖志卷四十二目録服物二回部被服之具坐卧之具飲食之具日用之具攻戰之具耕種之具成物之具欽定皇輿西域圖志卷四十二目録
+  hash: sha256:d5bad76fbbea2671c748f843989124bb8d75d532029022609cb4683c4d57b3c7
+  markers:
+  - {type: page-break, offset: 47, content: '', id: KR2k0039_WYG_085-2a}
+metadata:
+  title: 欽定皇輿西域圖志
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:40:35.472862'
+  juan_title: 卷四十二目録
+  source:
+    repository: kanripo
+    path: KR2k0039/KR2k0039_085.txt
+hash: sha256:496fec641b4ff2e74809de7d24536f418053fa49cfec80c4125ce4ae177452d8

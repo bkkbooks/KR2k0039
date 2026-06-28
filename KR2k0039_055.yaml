@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR2k0039/krp/v1/juan/55
+seq: 55
+front:
+  text: 欽定四庫全書欽定皇輿西域圖志卷三十三目録
+  hash: sha256:aa7b8e90907de321aafa2665110022f36bc35abee02744f178deac71653f8428
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0039_WYG_055-1a}
+body:
+  text: 屯政二闢展哈喇和卓托克三哈喇沙爾烏什阿克蘇户口附欽定皇輿西域圖志卷三十三目録欽定四庫全書欽定皇輿西域圖志卷三十三目録屯政二闢展哈喇和卓托克三哈喇沙爾烏什阿克蘇户口附欽定皇輿西域圖志卷三十三目録
+  hash: sha256:7ff17ae6f4c78068994e140dc0ad4adfe163923cd300e559b0325d856167ed51
+  markers:
+  - {type: page-break, offset: 38, content: '', id: KR2k0039_WYG_055-2a}
+metadata:
+  title: 欽定皇輿西域圖志
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:40:35.472862'
+  juan_title: 卷三十三目録
+  source:
+    repository: kanripo
+    path: KR2k0039/KR2k0039_055.txt
+hash: sha256:3240cbd5f4c83deaad63cf25a9306911b0b01affc7fd0b08e536298d800c64b2

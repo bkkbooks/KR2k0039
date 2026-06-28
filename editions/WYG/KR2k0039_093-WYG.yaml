@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR2k0039/WYG/v1/juan/93
+seq: 93
+front:
+  text: 欽定四庫全書欽定皇輿西域圖志卷四十三目録
+  hash: sha256:c404f120328344c136d2514d35be5b813b0be55a1d15828224ac84c5a1d8cf30
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0039_WYG_093-1a}
+body:
+  text: 土産準噶爾部百穀草木之屬羽毛鱗介之屬金石珍寶之屬回部百穀草木之屬羽毛鱗介之屬金石珍寶之屬欽定皇輿西域圖志卷四十三目録欽定四庫全書欽定皇輿西域圖志卷四十三目録土産準噶爾部百穀草木之屬羽毛鱗介之屬金石珍寶之屬回部百穀草木之屬羽毛鱗介之屬金石珍寶之屬欽定皇輿西域圖志卷四十三目録
+  hash: sha256:9d3b94283631b52ec0125c8d46da2c13acf24239a63daa4ae8ced1ba71694b4a
+  markers:
+  - {type: page-break, offset: 58, content: '', id: KR2k0039_WYG_093-2a}
+metadata:
+  title: 欽定皇輿西域圖志
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:40:35.472862'
+  juan_title: 卷四十三目録
+  source:
+    repository: kanripo
+    path: KR2k0039/KR2k0039_093.txt
+hash: sha256:05e3219e4eb3b3d32b9ae877b772e3a5b418e345ae1ad0455b492c770b41cb7b

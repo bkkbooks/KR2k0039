@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR2k0039/WYG/v1/juan/100
+seq: 100
+front:
+  text: 欽定四庫全書欽定皇輿西域圖志卷四十六目録
+  hash: sha256:554fb0cf0af7697920ee7b5eb711f4e521b8c667327b3993dbd97455dc0f4c4f
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0039_WYG_100-1a}
+body:
+  text: 藩屬三㧞達克山博洛爾布哈爾愛烏罕痕都斯坦巴勒提欽定皇輿西域圖志卷四十六目録欽定四庫全書欽定皇輿西域圖志卷四十六目録藩屬三㧞達克山博洛爾布哈爾愛烏罕痕都斯坦巴勒提欽定皇輿西域圖志卷四十六目録
+  hash: sha256:47e58cef63c5fe0026e72b37095ae9319fc59032fde16fe99797dc40cc9a9819
+  markers:
+  - {type: page-break, offset: 37, content: '', id: KR2k0039_WYG_100-2a}
+metadata:
+  title: 欽定皇輿西域圖志
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:40:35.472862'
+  juan_title: 卷四十六目録
+  source:
+    repository: kanripo
+    path: KR2k0039/KR2k0039_100.txt
+hash: sha256:36555028084701ed142789fe00f43012432165e1e100686fe8608d28b8a5ea1c

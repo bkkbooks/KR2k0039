@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR2k0039/WYG/v1/juan/98
+seq: 98
+front:
+  text: 欽定四庫全書欽定皇輿西域圖志卷四十五目録
+  hash: sha256:59e44ffed1e5631fed3d0fc142cb66436e8c0a7f9ed9c1375878c9c95c9f0d8d
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0039_WYG_098-1a}
+body:
+  text: 藩屬二東布魯特西布魯特霍罕安集延瑪爾噶朗那木干塔什罕欽定皇輿西域圖志卷四十五目録欽定四庫全書欽定皇輿西域圖志卷四十五目録藩屬二東布魯特西布魯特霍罕安集延瑪爾噶朗那木干塔什罕欽定皇輿西域圖志卷四十五目録
+  hash: sha256:6bf85b1bc4c8797d3cea3187095f78070679ec616368d0addd24fc325a152d3b
+  markers:
+  - {type: page-break, offset: 40, content: '', id: KR2k0039_WYG_098-2a}
+metadata:
+  title: 欽定皇輿西域圖志
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:40:35.472862'
+  juan_title: 卷四十五目録
+  source:
+    repository: kanripo
+    path: KR2k0039/KR2k0039_098.txt
+hash: sha256:108ab441614ac82b65e79a59c5d141da840ea8d2a8da16c8212ea429d7440cd8

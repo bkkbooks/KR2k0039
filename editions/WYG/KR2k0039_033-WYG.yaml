@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR2k0039/WYG/v1/juan/33
+seq: 33
+front:
+  text: 欽定四庫全書欽定皇輿西域圖志卷二十一目録
+  hash: sha256:0e22d4591bf438642efa8b77accee7d308ad8ea2d86273712add1c23aa6fb8f7
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0039_WYG_033-1a, image: WYG0500/WYG0500-0694a.png}
+body:
+  text: 山二天山正幹天山額得墨克達巴博克達鄂拉托克喇鄂拉阿拉癸鄂拉哲爾格斯鄂拉烏可克達巴孟克圖達巴哈屯博克達鄂拉古爾班多博克鄂拉額林哈畢爾噶鄂拉庫舎圖達巴們都招達巴鄂蘭達巴額勒伯克鄂拉額布圖達巴烏得音郭勒達巴納喇特達巴汗騰格里鄂拉額什克巴什鄂拉阿勒坦呼蘓鄂拉木素爾鄂拉薩瓦布齊鄂拉卓哈達巴伯得里克鄂拉烏成庫什達巴喀克沙勒鄂拉額圖克達巴哈喇鄂拉欽定皇輿西域圖志卷二十一目録欽定四庫全書欽定皇輿西域圖志卷二十一目録山二天山正幹天山額得墨克達巴博克達鄂拉托克喇鄂拉阿拉癸鄂拉哲爾格斯鄂拉烏可克達巴孟克圖達巴哈屯博克達鄂拉古爾班多博克鄂拉額林哈畢爾噶鄂拉庫舎圖達巴們都招達巴鄂蘭達巴額勒伯克鄂拉額布圖達巴烏得音郭勒達巴納喇特達巴汗騰格里鄂拉額什克巴什鄂拉阿勒坦呼蘓鄂拉木素爾鄂拉薩瓦布齊鄂拉卓哈達巴伯得里克鄂拉烏成庫什達巴喀克沙勒鄂拉額圖克達巴哈喇鄂拉欽定皇輿西域圖志卷二十一目録
+  hash: sha256:1d55631ef05661bc8f0e291b39475fa3639cf48469678d3fd45dcda2dddafa93
+  markers:
+  - {type: page-break, offset: 181, content: '', id: KR2k0039_WYG_033-4a, image: WYG0500/WYG0500-0695c.png}
+metadata:
+  title: 欽定皇輿西域圖志
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:40:35.472862'
+  juan_title: 卷二十一目録
+  source:
+    repository: kanripo
+    path: KR2k0039/KR2k0039_033.txt
+hash: sha256:00f456ea749378dda44ee7b6bc5773e36fa225f3054ecc671022175c3b7a9c84

@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR2k0039/krp/v1/juan/69
+seq: 69
+front:
+  text: 欽定四庫全書欽定皇輿西域圖志卷三十目録
+  hash: sha256:fd9f69d80f8641f77b649533cb6df6cd3d6389be4bc6b6b43775460c341a2f00
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0039_WYG_069-1a}
+body:
+  text: 官制二闢展哈喇沙爾庫車烏什阿克蘇賽喇木喀什噶爾葉爾羌和闐附回部舊官制欽定皇輿西域圖志卷三十目録欽定四庫全書欽定皇輿西域圖志卷三十目録官制二闢展哈喇沙爾庫車烏什阿克蘇賽喇木喀什噶爾葉爾羌和闐附回部舊官制欽定皇輿西域圖志卷三十目録
+  hash: sha256:2617c5bc7241ac82b00def377bcb411d6d3add8d68ec6b0e29d1bfa6470b27ab
+  markers:
+  - {type: page-break, offset: 47, content: '', id: KR2k0039_WYG_069-2a}
+metadata:
+  title: 欽定皇輿西域圖志
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:40:35.472862'
+  juan_title: 卷三十目録
+  source:
+    repository: kanripo
+    path: KR2k0039/KR2k0039_069.txt
+hash: sha256:7ca8f57c2f0147f3844d1d12b325561aabdd94f076362f4a693f0f381cf259c0

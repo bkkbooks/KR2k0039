@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR2k0039/krp/v1/juan/90
+seq: 90
+front:
+  text: 欽定四庫全書欽定皇輿西域圖志卷四十八目録
+  hash: sha256:c9f5f2ad9b4effcda2ff053cecf5f2393e99251dba3ecd1bf084c16538241fc8
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0039_WYG_090-1a}
+body:
+  text: 雜録二回部世系字書語言故事附記欽定皇輿西域圖志卷四十八目録欽定四庫全書欽定皇輿西域圖志卷四十八目録雜録二回部世系字書語言故事附記欽定皇輿西域圖志卷四十八目録
+  hash: sha256:8e19ae378c2cab7fcaf204736c44958172b3d5b384b7b076683ecc36253313df
+  markers:
+  - {type: page-break, offset: 29, content: '', id: KR2k0039_WYG_090-2a}
+metadata:
+  title: 欽定皇輿西域圖志
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:40:35.472862'
+  juan_title: 卷四十八目録
+  source:
+    repository: kanripo
+    path: KR2k0039/KR2k0039_090.txt
+hash: sha256:452d2802bcdc00607b15462e0c57d80d9a04fa293b582f7af76f6869c74c8661

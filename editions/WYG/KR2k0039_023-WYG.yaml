@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR2k0039/WYG/v1/juan/23
+seq: 23
+front:
+  text: 欽定四庫全書欽定皇輿西域圖志卷七目録
+  hash: sha256:29186910002572ce76f4ed918d4ecb6e315f5e084a5b2ad0ae9a98c421185017
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0039_WYG_023-1a, image: WYG0500/WYG0500-0556c.png}
+body:
+  text: 晷度二天山南路欽定皇輿西域圗志卷七欽定四庫全書欽定皇輿西域圖志卷七目録晷度二天山南路欽定皇輿西域圗志卷七
+  hash: sha256:ff85c394b5baf07ba2474d7d8d969689843c1daf0df7e2a8a01aa8066bda08b0
+  markers:
+  - {type: page-break, offset: 17, content: '', id: KR2k0039_WYG_023-2a, image: WYG0500/WYG0500-0557a.png}
+metadata:
+  title: 欽定皇輿西域圖志
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:40:35.472862'
+  juan_title: 卷七目録
+  source:
+    repository: kanripo
+    path: KR2k0039/KR2k0039_023.txt
+hash: sha256:a90be55efcc2a7e5891c8b2d321582bedd945fb3e6399872f5950a5d23b8613e

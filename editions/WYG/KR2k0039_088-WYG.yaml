@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR2k0039/WYG/v1/juan/88
+seq: 88
+front:
+  text: 欽定四庫全書欽定皇輿西域圖志卷四十七目録
+  hash: sha256:6f17df6d9388eba41ec2774891b2083a1a0eb66a202a0650ce12f5121702c092
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0039_WYG_088-1a}
+body:
+  text: 雜録一凖噶爾部世系字書語言故事附記欽定皇輿西域圖志卷四十七目録欽定四庫全書欽定皇輿西域圖志卷四十七目録雜録一凖噶爾部世系字書語言故事附記欽定皇輿西域圖志卷四十七目録
+  hash: sha256:dbe9c36e2b1c9e09f3e5574bfd58b2a14ba01da92f9305e425c72fc9cc364827
+  markers:
+  - {type: page-break, offset: 31, content: '', id: KR2k0039_WYG_088-2a}
+metadata:
+  title: 欽定皇輿西域圖志
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:40:35.472862'
+  juan_title: 卷四十七目録
+  source:
+    repository: kanripo
+    path: KR2k0039/KR2k0039_088.txt
+hash: sha256:32b5f08b32922d205c7d729c7b8fb3dabf0ff8ad6dc04193f0d9677a6ea3ab1f

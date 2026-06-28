@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR2k0039/krp/v1/juan/83
+seq: 83
+front:
+  text: 欽定四庫全書欽定皇輿西域圖志卷四十一目録
+  hash: sha256:dd0080893416204c567355061e5969209825aa86c15ed5066071067883aa5ceb
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0039_WYG_083-1a}
+body:
+  text: 服物一準噶爾部被服之具坐卧之具飲食之具日用之具攻戰之具成物之具欽定皇輿西域圗志卷四十一目録欽定四庫全書欽定皇輿西域圖志卷四十一目録服物一準噶爾部被服之具坐卧之具飲食之具日用之具攻戰之具成物之具欽定皇輿西域圗志卷四十一目録
+  hash: sha256:49cef78c48837fd859438690d95d021b1b7a2bfe29ebf7088b3a28a1f3ddca0b
+  markers:
+  - {type: page-break, offset: 45, content: '', id: KR2k0039_WYG_083-2a}
+metadata:
+  title: 欽定皇輿西域圖志
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:40:35.472862'
+  juan_title: 卷四十一目録
+  source:
+    repository: kanripo
+    path: KR2k0039/KR2k0039_083.txt
+hash: sha256:938e3a8c297392c3adcc7325351949ad4cd83290f8bb310814889d99878d7c2c

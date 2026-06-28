@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR2k0039/krp/v1/juan/9
+seq: 9
+front:
+  text: 欽定四庫全書欽定皇輿西域圖志卷十目録
+  hash: sha256:17c651179d0f7918e4d2f5efe4793c25d6ab63e05d42040ce4ad4cc912d41519
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0039_WYG_009-1a, image: WYG0500/WYG0500-0197a.png}
+body:
+  text: 疆域三安西北路二迪化州屬迪化州治頭道灣庄五道灣庄九道灣庄卡子灣庄古木地窩舖土墩子三個泉庄倉房溝庄大西溝䀋池墩昌吉縣治羅克倫蘆草溝呼圖克拜綏來縣治陽巴勒噶遜圖古里克巴克呼蘓烏蘭烏蘇和爾郭斯博羅特克圖魯庫安濟哈雅阜康縣治賽因塔喇庫里葉圖納里特濟木薩得勒呼蘇台欽定皇輿西域圖志卷十目録欽定四庫全書欽定皇輿西域圖志卷十目録疆域三安西北路二迪化州屬迪化州治頭道灣庄五道灣庄九道灣庄卡子灣庄古木地窩舖土墩子三個泉庄倉房溝庄大西溝䀋池墩昌吉縣治羅克倫蘆草溝呼圖克拜綏來縣治陽巴勒噶遜圖古里克巴克呼蘓烏蘭烏蘇和爾郭斯博羅特克圖魯庫安濟哈雅阜康縣治賽因塔喇庫里葉圖納里特濟木薩得勒呼蘇台欽定皇輿西域圖志卷十目録
+  hash: sha256:076a61316e5bb548b42caab85e33762d4f3640372dc24d3deeb4bca8aee88e3b
+  markers:
+  - {type: page-break, offset: 139, content: '', id: KR2k0039_WYG_009-4a, image: WYG0500/WYG0500-0198c.png}
+metadata:
+  title: 欽定皇輿西域圖志
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:40:35.472862'
+  juan_title: 卷十目録
+  source:
+    repository: kanripo
+    path: KR2k0039/KR2k0039_009.txt
+hash: sha256:32ea48ffa367c3a075930ba601acd28a6437e8d9838cddf5561cd98e71b1efbf

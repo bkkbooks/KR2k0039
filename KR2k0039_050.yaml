@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR2k0039/krp/v1/juan/50
+seq: 50
+front:
+  text: 欽定四庫全書欽定皇輿西域圖志卷三十九目録
+  hash: sha256:869bb0628d39f909ae9fece27d57f5bc9c3c8cf6d57592a53c418ffed8610443
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0039_WYG_050-1a}
+body:
+  text: 風俗準噶爾部事佛畜牧相見刑罰嵗時嫁娶喪祭回部拜天田畜相見政刑嵗時嫁娶喪祭欽定皇輿西域圖志卷三十九目録欽定四庫全書欽定皇輿西域圖志卷三十九目録風俗準噶爾部事佛畜牧相見刑罰嵗時嫁娶喪祭回部拜天田畜相見政刑嵗時嫁娶喪祭欽定皇輿西域圖志卷三十九目録
+  hash: sha256:7b2981e69c1b1a0a660e926e1dd7f94cd29f6ee0ebc7b8c54ca81420709c6c7b
+  markers:
+  - {type: page-break, offset: 50, content: '', id: KR2k0039_WYG_050-3a}
+metadata:
+  title: 欽定皇輿西域圖志
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:40:35.472862'
+  juan_title: 卷三十九目録
+  source:
+    repository: kanripo
+    path: KR2k0039/KR2k0039_050.txt
+hash: sha256:3b4a5b2bcd9fa926967d29fe3f13673b5bfdb8babe63c9722122972bd48aece4

@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR2k0039/krp/v1/juan/42
+seq: 42
+front:
+  text: 欽定四庫全書欽定皇輿西域圖志卷三十一目録
+  hash: sha256:7892a6ee479ee1420da260d51315c7a6b7d7518b48fdbe82b7c5f996f2f375ce
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0039_WYG_042-1a, image: WYG0500/WYG0500-0820a.png}
+body:
+  text: 兵防嘉峪闗安西州哈宻鎮西府迪化州伊犂庫爾哈喇烏蘇塔爾巴噶台闢展哈喇沙爾庫車烏什阿克蘇賽喇木喀什噶爾葉爾羌和闐附臺站卡倫欽定皇輿西域圖志卷三十一目録欽定四庫全書欽定皇輿西域圖志卷三十一目録兵防嘉峪闗安西州哈宻鎮西府迪化州伊犂庫爾哈喇烏蘇塔爾巴噶台闢展哈喇沙爾庫車烏什阿克蘇賽喇木喀什噶爾葉爾羌和闐附臺站卡倫欽定皇輿西域圖志卷三十一目録
+  hash: sha256:ce1efc621297c95303b02e3621b5a5ff7ad7f5cd79aedc54d163644f6b56a9a4
+  markers:
+  - {type: page-break, offset: 73, content: '', id: KR2k0039_WYG_042-3a, image: WYG0500/WYG0500-0821a.png}
+metadata:
+  title: 欽定皇輿西域圖志
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:40:35.472862'
+  juan_title: 卷三十一目録
+  source:
+    repository: kanripo
+    path: KR2k0039/KR2k0039_042.txt
+hash: sha256:8fd5673a633284431394fdca72d118d66829a7ed47651f453ad24b2c40ba004d

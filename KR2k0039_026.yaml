@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR2k0039/krp/v1/juan/26
+seq: 26
+front:
+  text: 欽定四庫全書欽定皇輿西域圖志卷四目録
+  hash: sha256:8ba1c3c1e17f0196653441010f17d5723918ad142be926b8c60cc47861a5495e
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0039_WYG_026-1a, image: WYG0500/WYG0500-0581c.png}
+body:
+  text: 列表一安西南路安西州屬表安西北路哈宻屬表鎮西府屬表天山北路廸化州屬表庫爾喀喇烏蘇路表塔爾巴噶台路表伊犂東路表伊犁西路表欽定皇輿西域圖志卷四目録欽定四庫全書欽定皇輿西域圖志卷四目録列表一安西南路安西州屬表安西北路哈宻屬表鎮西府屬表天山北路廸化州屬表庫爾喀喇烏蘇路表塔爾巴噶台路表伊犂東路表伊犁西路表欽定皇輿西域圖志卷四目録
+  hash: sha256:80f268944ae13452e3c3534735c5c144936bc734155b6c97fecd2ec7ce10f65c
+  markers:
+  - {type: page-break, offset: 71, content: '', id: KR2k0039_WYG_026-2a, image: WYG0500/WYG0500-0582a.png}
+metadata:
+  title: 欽定皇輿西域圖志
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:40:35.472862'
+  juan_title: 卷四目録
+  source:
+    repository: kanripo
+    path: KR2k0039/KR2k0039_026.txt
+hash: sha256:57ada23ef351b06cf6c4e4729ea371f1c0e0245fdc43704667874021d6f44be2
