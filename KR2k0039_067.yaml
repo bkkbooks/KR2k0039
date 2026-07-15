@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2k0039_WYG_067-1a}
 body:
-  text: 官制一嘉峪闗安西州哈宻鎮西府迪化州伊犂庫爾喀喇烏蘇塔爾巴噶台附準噶爾舊官制欽定皇輿西域圖志巻二十九目録欽定四庫全書欽定皇輿西域圖志卷二十九目録官制一嘉峪闗安西州哈宻鎮西府迪化州伊犂庫爾喀喇烏蘇塔爾巴噶台附準噶爾舊官制欽定皇輿西域圖志巻二十九目録
-  hash: sha256:68efecb57f00f9baef500e7d250a281b563ca5aff54c8ea780f3342c156918ae
+  text: 官制一嘉峪關安西州哈密鎮西府迪化州伊犂庫爾喀喇烏蘇塔爾巴噶台附準噶爾舊官制欽定皇輿西域圖志卷二十九目録欽定四庫全書欽定皇輿西域圖志卷二十九目録官制一嘉峪關安西州哈密鎮西府迪化州伊犂庫爾喀喇烏蘇塔爾巴噶台附準噶爾舊官制欽定皇輿西域圖志卷二十九目録
+  hash: sha256:43ea17588cb38f7972dc7b6fcf5943a9f2d3b855b8e08254acc6f81d02d0d61b
   markers:
   - {type: page-break, offset: 51, content: '', id: KR2k0039_WYG_067-2a}
 metadata:
@@ -20,4 +20,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2k0039/KR2k0039_067.txt
-hash: sha256:c176b2e4c7ced2bdcab3791f62027575a11c40e597b2f3512bb01a6300ded70c
+hash: sha256:ef1742c4a5040bf30127761e548855228d6ccf3bb4443211d74ab0b667ad86da

@@ -10,6 +10,7 @@ markers:
 
       ', id: KR2k0039_krp_020-bkkkrnewl2}
   - {type: line-break, offset: 6, content: '', id: KR2k0039_WYG_020-1a02}
+  - {type: substitution, offset: 14, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
   body:
   - {type: 'kr:newline', offset: 0, content: '
 
@@ -83,6 +84,7 @@ markers:
       ', id: KR2k0039_krp_020-bkkkrnewl14}
   - {type: line-break, offset: 211, content: '', id: KR2k0039_WYG_020-1b07}
   - {type: indent, offset: 211, content: 　　, id: KR2k0039_krp_020-bkkind13}
+  - {type: substitution, offset: 215, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16303}}
   - {type: 'kr:newline', offset: 216, content: '
 
       ', id: KR2k0039_krp_020-bkkkrnewl15}
@@ -96,16 +98,20 @@ markers:
 
       ', id: KR2k0039_krp_020-bkkkrnewl17}
   - {type: line-break, offset: 222, content: '', id: KR2k0039_WYG_020-2a01}
+  - {type: substitution, offset: 225, original: 歩, replacement: 步, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20787}}
+  - {type: substitution, offset: 230, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17149}}
   - {type: 'kr:newline', offset: 243, content: '
 
       ', id: KR2k0039_krp_020-bkkkrnewl18}
   - {type: line-break, offset: 243, content: '', id: KR2k0039_WYG_020-2a02}
   - {type: indent, offset: 243, content: 　　, id: KR2k0039_krp_020-bkkind15}
+  - {type: substitution, offset: 259, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: 'kr:newline', offset: 262, content: '
 
       ', id: KR2k0039_krp_020-bkkkrnewl19}
   - {type: line-break, offset: 262, content: '', id: KR2k0039_WYG_020-2a03}
   - {type: indent, offset: 262, content: 　　, id: KR2k0039_krp_020-bkkind16}
+  - {type: substitution, offset: 269, original: 届, replacement: 屆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16819}}
   - {type: 'kr:newline', offset: 281, content: '
 
       ', id: KR2k0039_krp_020-bkkkrnewl20}
@@ -153,11 +159,14 @@ markers:
 
       ', id: KR2k0039_krp_020-bkkkrnewl29}
   - {type: line-break, offset: 417, content: '', id: KR2k0039_WYG_020-2b04}
+  - {type: substitution, offset: 424, original: 䝉, replacement: 蒙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-4689}}
+  - {type: substitution, offset: 430, original: 来, replacement: 來, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16500}}
   - {type: 'kr:newline', offset: 438, content: '
 
       ', id: KR2k0039_krp_020-bkkkrnewl30}
   - {type: line-break, offset: 438, content: '', id: KR2k0039_WYG_020-2b05}
   - {type: indent, offset: 438, content: 　　, id: KR2k0039_krp_020-bkkind24}
+  - {type: substitution, offset: 455, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: 'kr:newline', offset: 457, content: '
 
       ', id: KR2k0039_krp_020-bkkkrnewl31}
@@ -172,4 +181,4 @@ markers:
 
       ', id: KR2k0039_krp_020-bkkkrnewl33}
   back: []
-hash: sha256:4e3bc19fda3e9683771f6b6cebbe20522c2ccc32f867e340f917e1de0f0f2239
+hash: sha256:1be29b93c9d83488fd5c25c61853aeaa427db68edd4067c3a766bd4c6839e02c

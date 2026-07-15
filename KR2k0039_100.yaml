@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2k0039_WYG_100-1a}
 body:
-  text: 藩屬三㧞達克山博洛爾布哈爾愛烏罕痕都斯坦巴勒提欽定皇輿西域圖志卷四十六目録欽定四庫全書欽定皇輿西域圖志卷四十六目録藩屬三㧞達克山博洛爾布哈爾愛烏罕痕都斯坦巴勒提欽定皇輿西域圖志卷四十六目録
-  hash: sha256:47e58cef63c5fe0026e72b37095ae9319fc59032fde16fe99797dc40cc9a9819
+  text: 藩屬三拔達克山博洛爾布哈爾愛烏罕痕都斯坦巴勒提欽定皇輿西域圖志卷四十六目録欽定四庫全書欽定皇輿西域圖志卷四十六目録藩屬三拔達克山博洛爾布哈爾愛烏罕痕都斯坦巴勒提欽定皇輿西域圖志卷四十六目録
+  hash: sha256:802ddf9e71d93217afee18a9467f72e29d9d35b74cebaa30fcb43f182330f031
   markers:
   - {type: page-break, offset: 37, content: '', id: KR2k0039_WYG_100-2a}
 metadata:
@@ -20,4 +20,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2k0039/KR2k0039_100.txt
-hash: sha256:69ca91f9fcb72b298d376a6393a9cdf81c79e147989c40471152aa41882964ee
+hash: sha256:39e5107e5aef5cd06bb13fc0621b0057c07e744c46aaa7b81dc77e1c66f0e768

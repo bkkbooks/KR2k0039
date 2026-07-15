@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2k0039_WYG_042-1a, image: WYG0500/WYG0500-0820a.png}
 body:
-  text: 兵防嘉峪闗安西州哈宻鎮西府迪化州伊犂庫爾哈喇烏蘇塔爾巴噶台闢展哈喇沙爾庫車烏什阿克蘇賽喇木喀什噶爾葉爾羌和闐附臺站卡倫欽定皇輿西域圖志卷三十一目録欽定四庫全書欽定皇輿西域圖志卷三十一目録兵防嘉峪闗安西州哈宻鎮西府迪化州伊犂庫爾哈喇烏蘇塔爾巴噶台闢展哈喇沙爾庫車烏什阿克蘇賽喇木喀什噶爾葉爾羌和闐附臺站卡倫欽定皇輿西域圖志卷三十一目録
-  hash: sha256:ce1efc621297c95303b02e3621b5a5ff7ad7f5cd79aedc54d163644f6b56a9a4
+  text: 兵防嘉峪關安西州哈密鎮西府迪化州伊犂庫爾哈喇烏蘇塔爾巴噶台闢展哈喇沙爾庫車烏什阿克蘇賽喇木喀什噶爾葉爾羌和闐附臺站卡倫欽定皇輿西域圖志卷三十一目録欽定四庫全書欽定皇輿西域圖志卷三十一目録兵防嘉峪關安西州哈密鎮西府迪化州伊犂庫爾哈喇烏蘇塔爾巴噶台闢展哈喇沙爾庫車烏什阿克蘇賽喇木喀什噶爾葉爾羌和闐附臺站卡倫欽定皇輿西域圖志卷三十一目録
+  hash: sha256:5dc6214f94ac35eff820804082764e16c19f25d8077998a21ad608d939ff65aa
   markers:
   - {type: page-break, offset: 73, content: '', id: KR2k0039_WYG_042-3a, image: WYG0500/WYG0500-0821a.png}
 metadata:
@@ -20,4 +20,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2k0039/KR2k0039_042.txt
-hash: sha256:8fd5673a633284431394fdca72d118d66829a7ed47651f453ad24b2c40ba004d
+hash: sha256:0f61edb4211803a9d69fb4bc992e20ef1cd8be586b1eeb4b719244fb3d5fa578

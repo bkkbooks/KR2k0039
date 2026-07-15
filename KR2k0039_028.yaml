@@ -1,13 +1,13 @@
 canonical_identifier: bkk:krp/KR2k0039/krp/v1/juan/28
 seq: 28
 front:
-  text: 欽定四庫全書欽定皇輿西域圖志巻五目録
-  hash: sha256:6adbaafc7944da1e53a5bcc6e395deebcb6e76d55f477685bb01790bdc934908
+  text: 欽定四庫全書欽定皇輿西域圖志卷五目録
+  hash: sha256:1f8b77487f98e5684fc36efbc69cb8d137cf93f1658e53268b7caf691044cd01
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2k0039_WYG_028-1a, image: WYG0500/WYG0500-0614a.png}
 body:
-  text: 列表二天山南路闢展表哈喇沙爾表庫車表賽喇木表阿克蘇表烏什表喀什噶爾表葉爾羌表和闐表藩屬左右哈薩克部表東西布魯特部表安集延瑪爾噶朗霍罕那木干諸部表塔什罕表拔達克山博洛爾布哈爾諸部表愛烏罕痕都斯坦巴勒提諸部表欽定皇輿西域圖志巻五目録欽定四庫全書欽定皇輿西域圖志巻五目録列表二天山南路闢展表哈喇沙爾表庫車表賽喇木表阿克蘇表烏什表喀什噶爾表葉爾羌表和闐表藩屬左右哈薩克部表東西布魯特部表安集延瑪爾噶朗霍罕那木干諸部表塔什罕表拔達克山博洛爾布哈爾諸部表愛烏罕痕都斯坦巴勒提諸部表欽定皇輿西域圖志巻五目録
-  hash: sha256:9db7f76a1b3e111e64ec21caf05aec11fa5dcda110952ce8bb0d7384f5d288d3
+  text: 列表二天山南路闢展表哈喇沙爾表庫車表賽喇木表阿克蘇表烏什表喀什噶爾表葉爾羌表和闐表藩屬左右哈薩克部表東西布魯特部表安集延瑪爾噶朗霍罕那木干諸部表塔什罕表拔達克山博洛爾布哈爾諸部表愛烏罕痕都斯坦巴勒提諸部表欽定皇輿西域圖志卷五目録欽定四庫全書欽定皇輿西域圖志卷五目録列表二天山南路闢展表哈喇沙爾表庫車表賽喇木表阿克蘇表烏什表喀什噶爾表葉爾羌表和闐表藩屬左右哈薩克部表東西布魯特部表安集延瑪爾噶朗霍罕那木干諸部表塔什罕表拔達克山博洛爾布哈爾諸部表愛烏罕痕都斯坦巴勒提諸部表欽定皇輿西域圖志卷五目録
+  hash: sha256:e50c966bc56dabe36267aa81254ea7e07675b912eab4cb953fe9da7d9c363dd8
   markers:
   - {type: page-break, offset: 114, content: '', id: KR2k0039_WYG_028-3a, image: WYG0500/WYG0500-0615a.png}
 metadata:
@@ -20,4 +20,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2k0039/KR2k0039_028.txt
-hash: sha256:ca434db2ecea4faff426fe6b67cd478c78771cb2f0045009eb761b7fbb8039dd
+hash: sha256:c21bfc5ed601943ccaa5178be6f278fa5150970c6434c3e0139763c06b011046
