@@ -143,9 +143,11 @@ markers:
       ', id: KR2k0039_krp_051-bkkkrnewl26}
   - {type: line-break, offset: 353, content: '', id: KR2k0039_WYG_051-2b01}
   - {type: punctuation, offset: 356, content: (, id: KR2k0039_krp_051-bkkpn1}
+  - {type: voice, offset: 356, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 357, content: /, id: KR2k0039_krp_051-bkkpn2}
   - {type: punctuation, offset: 357, content: ), id: KR2k0039_krp_051-bkkpn3}
   - {type: punctuation, offset: 364, content: (, id: KR2k0039_krp_051-bkkpn4}
+  - {type: voice, offset: 364, length: 15, name: note, id: n2}
   - {type: punctuation, offset: 372, content: /, id: KR2k0039_krp_051-bkkpn5}
   - {type: punctuation, offset: 379, content: ), id: KR2k0039_krp_051-bkkpn6}
   - {type: 'kr:newline', offset: 381, content: '
@@ -157,6 +159,7 @@ markers:
       ', id: KR2k0039_krp_051-bkkkrnewl28}
   - {type: line-break, offset: 402, content: '', id: KR2k0039_WYG_051-2b03}
   - {type: punctuation, offset: 416, content: (, id: KR2k0039_krp_051-bkkpn7}
+  - {type: voice, offset: 416, length: 52, name: note, id: n3}
   - {type: punctuation, offset: 423, content: /, id: KR2k0039_krp_051-bkkpn8}
   - {type: punctuation, offset: 430, content: ), id: KR2k0039_krp_051-bkkpn9}
   - {type: 'kr:newline', offset: 430, content: '
@@ -172,6 +175,7 @@ markers:
       ', id: KR2k0039_krp_051-bkkkrnewl30}
   - {type: line-break, offset: 470, content: '', id: KR2k0039_WYG_051-2b05}
   - {type: punctuation, offset: 475, content: (, id: KR2k0039_krp_051-bkkpn13}
+  - {type: voice, offset: 475, length: 13, name: note, id: n4}
   - {type: punctuation, offset: 482, content: /, id: KR2k0039_krp_051-bkkpn14}
   - {type: substitution, offset: 485, original: 䝉, replacement: 蒙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-4689}}
   - {type: punctuation, offset: 488, content: ), id: KR2k0039_krp_051-bkkpn15}
@@ -200,6 +204,7 @@ markers:
   - {type: line-break, offset: 560, content: '', id: KR2k0039_WYG_051-3a01}
   - {type: punctuation, offset: 569, content: (, id: KR2k0039_krp_051-bkkpn16}
   - {type: substitution, offset: 569, original: 䝉, replacement: 蒙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-4689}}
+  - {type: voice, offset: 569, length: 24, name: note, id: n5}
   - {type: punctuation, offset: 581, content: /, id: KR2k0039_krp_051-bkkpn17}
   - {type: punctuation, offset: 593, content: ), id: KR2k0039_krp_051-bkkpn18}
   - {type: 'kr:newline', offset: 593, content: '
@@ -229,6 +234,7 @@ markers:
   - {type: line-break, offset: 670, content: '', id: KR2k0039_WYG_051-3a06}
   - {type: indent, offset: 670, content: 　　, id: KR2k0039_krp_051-bkkind18}
   - {type: punctuation, offset: 686, content: (, id: KR2k0039_krp_051-bkkpn19}
+  - {type: voice, offset: 686, length: 16, name: note, id: n6}
   - {type: punctuation, offset: 689, content: /, id: KR2k0039_krp_051-bkkpn20}
   - {type: punctuation, offset: 692, content: ), id: KR2k0039_krp_051-bkkpn21}
   - {type: 'kr:newline', offset: 692, content: '
@@ -1320,6 +1326,7 @@ markers:
   - {type: line-break, offset: 3586, content: '', id: KR2k0039_WYG_051-14a05}
   - {type: indent, offset: 3586, content: 　　, id: KR2k0039_krp_051-bkkind195}
   - {type: punctuation, offset: 3596, content: (, id: KR2k0039_krp_051-bkkpn25}
+  - {type: voice, offset: 3596, length: 5, name: note, id: n7}
   - {type: punctuation, offset: 3599, content: /, id: KR2k0039_krp_051-bkkpn26}
   - {type: punctuation, offset: 3601, content: ), id: KR2k0039_krp_051-bkkpn27}
   - {type: 'kr:newline', offset: 3607, content: '
@@ -1469,6 +1476,7 @@ markers:
   - {type: 'kr:non-cjk', offset: 3999, content: ︹, id: KR2k0039_krp_051-bkkkrnonc57}
   - {type: 'kr:non-cjk', offset: 4004, content: ︺, id: KR2k0039_krp_051-bkkkrnonc58}
   - {type: punctuation, offset: 4008, content: (, id: KR2k0039_krp_051-bkkpn28}
+  - {type: voice, offset: 4008, length: 9, name: note, id: n8}
   - {type: punctuation, offset: 4013, content: /, id: KR2k0039_krp_051-bkkpn29}
   - {type: punctuation, offset: 4017, content: ), id: KR2k0039_krp_051-bkkpn30}
   - {type: 'kr:newline', offset: 4022, content: '
@@ -2151,6 +2159,7 @@ markers:
   - {type: line-break, offset: 5877, content: '', id: KR2k0039_WYG_051-22b02}
   - {type: indent, offset: 5877, content: 　　　, id: KR2k0039_krp_051-bkkind335}
   - {type: punctuation, offset: 5877, content: (, id: KR2k0039_krp_051-bkkpn31}
+  - {type: voice, offset: 5877, length: 8, name: note, id: n9}
   - {type: punctuation, offset: 5881, content: /, id: KR2k0039_krp_051-bkkpn32}
   - {type: substitution, offset: 5881, original: 宻, replacement: 密, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19356}}
   - {type: punctuation, offset: 5885, content: ), id: KR2k0039_krp_051-bkkpn33}
@@ -2800,4 +2809,4 @@ markers:
 
       ', id: KR2k0039_krp_051-bkkkrnewl1007}
   back: []
-hash: sha256:d456b32802bbba43ed7af792721ce93584dc4506136ae812378edd47f1bc0c3f
+hash: sha256:44d97e904b4db9eb2ecc9a3eb8985a79b86965a7757aac6626425b032b475609
